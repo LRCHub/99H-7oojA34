@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "DYNAMITE EXPLOSION",
+  "base_artist": "FIRE BOMBER",
+  "createdAt": "2025-12-01T17:26:49.176988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DYNAMITE EXPLOSION",
+      "artist": "FIRE BOMBER",
+      "has_synced": true,
+      "path": "select/01_DYNAMITE_EXPLOSION_FIRE_BOMBER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dynamite Explosion [Op Theme]",
+      "artist": "Fire Bomber",
+      "has_synced": true,
+      "path": "select/02_Dynamite_Explosion_[Op_Theme]_Fire_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DYNAMITE EXPLOSION (Original Karaoke)",
+      "artist": "Fire Bomber",
+      "has_synced": true,
+      "path": "select/03_DYNAMITE_EXPLOSION_(Original_Karaoke)_Fire_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dynamite Explosion [Op Theme]",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/04_Dynamite_Explosion_[Op_Theme]_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DYNAMITE EXPLOSION",
+      "artist": "福山芳樹",
+      "has_synced": false,
+      "path": "select/05_DYNAMITE_EXPLOSION_福山芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DYNAMITE EXPLOSION (Live Version)",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_01_DYNAMITE_EXPLOSION_(Live_Version)_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dynamite Explosion",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_02_Dynamite_Explosion_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DYNAMITE EXPLOSION",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_03_DYNAMITE_EXPLOSION_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "DYNAMITE EXPLOSION",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_04_DYNAMITE_EXPLOSION_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "DYNAMITE EXPLOSION",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_05_DYNAMITE_EXPLOSION_福山_芳樹.txt"
+    }
+  ]
+}
